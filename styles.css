@@ -3,11 +3,11 @@ body {
 }
 
 header {
-  background: linear-gradient(90deg, #0d6efd 70%, #fd7e14 100%);
+  background: linear-gradient(90deg, #1d334a 70%, #fd7e14 100%);
 }
 
 .flame-bg {
-  background: linear-gradient(180deg, #189eff 0%, #0d6efd 30%, #fd7e14 70%, #fffbea 100%);
+  background: linear-gradient(180deg, #189eff 0%, #1d334a 30%, #fd7e14 70%, #fffbea 100%);
   box-shadow: 0 0 80px 8px #fd7e1499;
 }
 .btn-flame {
